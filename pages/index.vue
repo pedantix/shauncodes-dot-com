@@ -5,24 +5,26 @@
         <img src="/v.png" alt="Vuetify.js" class="mb-5" />
       </div>
       <v-card>
-        <v-card-title class="headline">Welcome to the Vuetify + Nuxt.js template</v-card-title>
+        <v-card-title class="headline">Welcome to Shauncodes.com</v-card-title>
         <v-card-text>
-          <p>Vuetify is a progressive Material Design component framework for Vue.js. It was designed to empower developers to create amazing applications.</p>
-          <p>For more information on Vuetify, check out the <a href="https://vuetifyjs.com" target="_blank">documentation</a>.</p>
-          <p>If you have questions, please join the official <a href="https://chat.vuetifyjs.com/" target="_blank" title="chat">discord</a>.</p>
-          <p>Find a bug? Report it on the github <a href="https://github.com/vuetifyjs/vuetify/issues" target="_blank" title="contribute">issue board</a>.</p>
-          <p>Thank you for developing with Vuetify and I look forward to bringing more exciting features in the future.</p>
+          <p>Hi! My name is Shaun and I code. The name me be a little on the nose but I believe in being simple and straight forward.</p>
+          <p>Thank you for visiting my website, pardon the dust I will be working on flesghing out this site with the following features.</p>
+          <h3> TODOS! (Pardon my dusst)</h3>
+          <ul>
+            <li>C. V. - My relevent CV will be posted</li>
+            <li>Sharable Work - Most of the work I have done is not shareable, but the work I have done that clients will grant me persmission to include will be presented.</li>
+            <li>Blog - A technical and life blog that is to come down the pipeline.</li>
+            <li>Open Source Work - I have contributed to the open source community quite a bit and it is time to put it on display.</li>
+            <li>Work Inquiry Form - Ask me about what "it"(whatever your it may be) would take! I would love to give a pitch</li>
+            <li>Social Media - Akward Nerds should get more Social.</li>
+          </ul>
           <div class="text-xs-right">
-            <em><small>&mdash; John Leider</small></em>
+            <em><small>&mdash; Shaun W. Hubbard</small></em>
           </div>
-          <hr class="my-3">
-          <a href="https://nuxtjs.org/" target="_blank">Nuxt Documentation</a>
-          <br>
-          <a href="https://github.com/nuxt/nuxt.js" target="_blank">Nuxt GitHub</a>
         </v-card-text>
         <v-card-actions>
           <v-spacer></v-spacer>
-          <v-btn color="primary" flat nuxt to="/inspire">Continue</v-btn>
+          <v-btn color="primary" flat nuxt to="/inspire">Inspire!</v-btn>
         </v-card-actions>
       </v-card>
     </v-flex>
